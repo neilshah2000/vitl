@@ -1,0 +1,16 @@
+.app-offer-container {
+
+}
+
+.app-offer-image {
+
+}
+
+.app-offer-right {
+    text-align: center;
+}
+
+#app-dialog-close {
+    float: right;
+    cursor: pointer;
+}

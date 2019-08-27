@@ -1,0 +1,15 @@
+.app-header-flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.app-toolbar {
+    height: 10%
+}
+
+.app-header-item {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

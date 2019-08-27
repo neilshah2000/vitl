@@ -1,0 +1,13 @@
+.app-made-container {
+    width: 100%;
+    padding: 100px;
+    height: 100%
+}
+
+.app-made-image {
+    width: 50%;
+}
+
+.app-made-right {
+    width: 40%;
+}

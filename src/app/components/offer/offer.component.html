@@ -1,0 +1,22 @@
+<div class="app-offer-container" fxLayout="row" fxLayoutAlign="space-between stretch">
+    <span class="app-offer-image">
+        image
+    </span>
+
+    <span class="app-offer-right">
+        <div class="app-dialog-header">
+            <div id="app-dialog-close" (click)="closeDialogClicked()">&times;</div>
+            <h3>Welcome offer</h3>
+        </div>
+
+        <h5>Limited time only</h5>
+
+        <p>Subscribe today and get</p>
+        <p><b>50% off</b></p>
+        <p>your first order</p>
+        <button mat-button (click)="closeDialogClicked()">Buy now</button>
+        <div>
+            <a href="#">Maybe later</a>
+        </div>
+    </span>
+</div>

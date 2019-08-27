@@ -1,0 +1,10 @@
+.app-works-container {
+    width: 100%;
+    /* padding: 100px; causes scrollbars for some reason */
+    height: 100%;
+    background: lightgray;
+}
+
+.app-works-container-header {
+    text-align: center;
+}
