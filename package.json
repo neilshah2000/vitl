@@ -28,7 +28,7 @@
         "express": "^4.16.4",
         "express-history-api-fallback": "^2.2.1",
         "http-proxy-middleware": "^0.19.1",
-        "minimist": "^1.2.0",
+        "minimist": "^1.2.3",
         "moment": "^2.24.0",
         "morgan": "^1.9.1",
         "pubsub-js": "~1.7.0",
